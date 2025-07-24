@@ -47,8 +47,11 @@ The dataset contains records of customer transactions including fields like:
 - Add interactive slicers.
 - Design a final dashboard combining all key visuals.
 
+### 📄 All task descriptions and their corresponding sheets are listed in the **Project Instructions** sheet.
+
 ---
 
 ### Dashboard
-<img width="849" height="642" alt="image" src="https://github.com/user-attachments/assets/f03808e2-284f-44d5-9f04-c5b8d8d7bc54" />
+<img width="1096" height="782" alt="image" src="https://github.com/user-attachments/assets/e10edfd2-1dfb-4f51-bfa7-22a09e3e222d" />
+
 
