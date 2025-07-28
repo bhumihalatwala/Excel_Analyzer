@@ -47,7 +47,8 @@
 ---
 
 ### 10. Summarize insights using a dashboard.
-<img width="1096" height="782" alt="Screenshot 2025-07-24 232300" src="https://github.com/user-attachments/assets/5506190a-356c-4632-a5ec-383d273ed096" />
+<img width="860" height="689" alt="image" src="https://github.com/user-attachments/assets/84668fa9-1833-4f86-8c52-062a63b5dfa1" />
+
 
 
 
