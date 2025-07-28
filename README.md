@@ -52,6 +52,7 @@ The dataset contains records of customer transactions including fields like:
 ---
 
 ### Dashboard
-<img width="1096" height="782" alt="image" src="https://github.com/user-attachments/assets/e10edfd2-1dfb-4f51-bfa7-22a09e3e222d" />
+<img width="860" height="689" alt="image" src="https://github.com/user-attachments/assets/23d943c9-e141-40ce-b00a-fc3e56e64552" />
+
 
 
